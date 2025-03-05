@@ -1,0 +1,11 @@
+pdfplumber
+PyPDF2
+ollama
+streamlit
+langchain
+langchain_core
+langchain_community
+python-dotenv
+langchain_ollama
+faiss-cpu
+faiss-gpu
