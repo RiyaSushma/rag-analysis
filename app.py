@@ -14,7 +14,7 @@ from langchain.schema.runnable import RunnableLambda, RunnablePassthrough
 import torch
 from transformers import pipeline
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain.llms import HuggingFaceHub
+from langchain_community.llms import HuggingFaceHub
 from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_ollama import OllamaEmbeddings
