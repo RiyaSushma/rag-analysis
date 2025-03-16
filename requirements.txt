@@ -14,7 +14,7 @@ faiss-cpu
 beautifulsoup4 
 requests
 huggingface_hub 
-torch=2.5.1
+torch
 transformers
 pgvector
 psycopg2-binary
