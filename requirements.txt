@@ -11,3 +11,7 @@ python-dotenv
 langchain_ollama
 faiss-cpu
 faiss-gpu
+beautifulsoup4 
+requests
+huggingface_hub 
+torch
