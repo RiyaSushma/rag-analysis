@@ -17,3 +17,4 @@ huggingface_hub
 torch
 transformers
 pgvector
+psycopg2
