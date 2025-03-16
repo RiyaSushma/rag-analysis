@@ -10,7 +10,7 @@ langchain_community
 python-dotenv
 langchain_ollama
 faiss-cpu
-faiss-gpu
+# faiss-gpu
 beautifulsoup4 
 requests
 huggingface_hub 
