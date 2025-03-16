@@ -18,3 +18,4 @@ torch
 transformers
 pgvector
 psycopg2-binary
+asyncio
