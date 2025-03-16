@@ -16,3 +16,4 @@ requests
 huggingface_hub 
 torch
 transformers
+pgvector
