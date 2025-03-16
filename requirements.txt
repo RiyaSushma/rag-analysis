@@ -1,5 +1,5 @@
-pip==25.0.1
-setuptools
+pip>=24.0.0
+setuptools>=68.0.0
 pdfplumber
 PyPDF2
 ollama
@@ -14,7 +14,7 @@ faiss-cpu
 beautifulsoup4 
 requests
 huggingface_hub 
-torch
+torch=2.5.1
 transformers
 pgvector
 psycopg2-binary
