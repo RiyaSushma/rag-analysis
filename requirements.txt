@@ -1,3 +1,5 @@
+pip==24.0
+setuptools
 pdfplumber
 PyPDF2
 ollama
